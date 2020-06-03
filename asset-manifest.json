@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShopBal/static/css/main.812602da.chunk.css",
-    "main.js": "/ShopBal/static/js/main.1a2c57ed.chunk.js",
-    "main.js.map": "/ShopBal/static/js/main.1a2c57ed.chunk.js.map",
-    "runtime~main.js": "/ShopBal/static/js/runtime~main.9f379253.js",
-    "runtime~main.js.map": "/ShopBal/static/js/runtime~main.9f379253.js.map",
-    "static/js/2.3484eb77.chunk.js": "/ShopBal/static/js/2.3484eb77.chunk.js",
-    "static/js/2.3484eb77.chunk.js.map": "/ShopBal/static/js/2.3484eb77.chunk.js.map",
-    "index.html": "/ShopBal/index.html",
-    "precache-manifest.6dfb830405896ee1b432dda4aa7c9098.js": "/ShopBal/precache-manifest.6dfb830405896ee1b432dda4aa7c9098.js",
-    "service-worker.js": "/ShopBal/service-worker.js",
-    "static/css/main.812602da.chunk.css.map": "/ShopBal/static/css/main.812602da.chunk.css.map"
+    "main.css": "./static/css/main.812602da.chunk.css",
+    "main.js": "./static/js/main.fc5f5762.chunk.js",
+    "main.js.map": "./static/js/main.fc5f5762.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.b97420a0.chunk.js": "./static/js/2.b97420a0.chunk.js",
+    "static/js/2.b97420a0.chunk.js.map": "./static/js/2.b97420a0.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.635cfcd46cd62784b785db18f6a40fef.js": "./precache-manifest.635cfcd46cd62784b785db18f6a40fef.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.812602da.chunk.css.map": "./static/css/main.812602da.chunk.css.map"
   }
 }
