@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/ShopBal/static/css/main.812602da.chunk.css",
-    "main.js": "/github.io/ShopBal/static/js/main.fc5f5762.chunk.js",
-    "main.js.map": "/github.io/ShopBal/static/js/main.fc5f5762.chunk.js.map",
-    "runtime~main.js": "/github.io/ShopBal/static/js/runtime~main.2d1c9f54.js",
-    "runtime~main.js.map": "/github.io/ShopBal/static/js/runtime~main.2d1c9f54.js.map",
-    "static/js/2.b97420a0.chunk.js": "/github.io/ShopBal/static/js/2.b97420a0.chunk.js",
-    "static/js/2.b97420a0.chunk.js.map": "/github.io/ShopBal/static/js/2.b97420a0.chunk.js.map",
-    "index.html": "/github.io/ShopBal/index.html",
-    "precache-manifest.7309db2dc7dc5c5a62f2e26a7fd3fef6.js": "/github.io/ShopBal/precache-manifest.7309db2dc7dc5c5a62f2e26a7fd3fef6.js",
-    "service-worker.js": "/github.io/ShopBal/service-worker.js",
-    "static/css/main.812602da.chunk.css.map": "/github.io/ShopBal/static/css/main.812602da.chunk.css.map"
+    "main.css": "/ShopBal/static/css/main.812602da.chunk.css",
+    "main.js": "/ShopBal/static/js/main.fc5f5762.chunk.js",
+    "main.js.map": "/ShopBal/static/js/main.fc5f5762.chunk.js.map",
+    "runtime~main.js": "/ShopBal/static/js/runtime~main.9f379253.js",
+    "runtime~main.js.map": "/ShopBal/static/js/runtime~main.9f379253.js.map",
+    "static/js/2.b97420a0.chunk.js": "/ShopBal/static/js/2.b97420a0.chunk.js",
+    "static/js/2.b97420a0.chunk.js.map": "/ShopBal/static/js/2.b97420a0.chunk.js.map",
+    "index.html": "/ShopBal/index.html",
+    "precache-manifest.381cf9ad1ad969b6291af50a6bb01d0b.js": "/ShopBal/precache-manifest.381cf9ad1ad969b6291af50a6bb01d0b.js",
+    "service-worker.js": "/ShopBal/service-worker.js",
+    "static/css/main.812602da.chunk.css.map": "/ShopBal/static/css/main.812602da.chunk.css.map"
   }
 }
