@@ -2,7 +2,7 @@
   "name": "code-internet-shop-react-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://slavalobikov.github.io/ShopBal/",
+  "homepage": "https://slavalobikov.github.io/ShopBal",
   "dependencies": {
     "classnames": "^2.2.6",
     "connected-react-router": "^6.4.0",
